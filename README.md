@@ -8,7 +8,7 @@
     * responsive
     * viewable on mobile devices
     * allows client for customization
-    * should have atleast three commits
-        * commint 1 = page title 
+    * should have at least three commits
+        * commit 1 = page title 
         * commit 2 = page headings
         * commit 3 = primary navigation
